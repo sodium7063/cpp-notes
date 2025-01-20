@@ -1,0 +1,2 @@
+# it will create .exe files when running the codes, so we need to ignore them
+.exe
